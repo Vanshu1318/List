@@ -1,0 +1,33 @@
+#container{
+background-color: rgb(246, 225, 200);
+color: black;
+align-content: center;
+/* text-align: center;  */
+  border: 3px solid green;
+
+}
+body{
+    background-color: rgb(221, 247, 247);
+    border-color: black;
+    color: brown;
+}
+#p{
+margin-top: 10px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right: 100px;
+color:rgb(49, 18, 18)
+
+  
+}
+ .dives{
+   
+  margin-right:10px;
+ margin-bottom: 10px;
+ display: inline-block;
+ /* padding-right: 0cqmax; */
+  
+}
+/* .d{
+  margin:none;
+}  */
